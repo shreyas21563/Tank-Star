@@ -5,6 +5,14 @@ and more.
 
 Tech Stack: LibGDX, Java
 
+Commonds:
+A: Move Left
+D: Move Right
+↑: Trajectory Height increases
+↓: Trajectory Height decreases
+→: Trajectory range increases
+←: Trajectory range decreases
+
 <br><br><br>
 <div align="center">
   <img src="https://github.com/shreyas21563/Tank-Star/assets/108022785/c14b326c-d91a-4dd9-9d68-28fc6aa0517c" alt= “” width="700px" height="400px">
