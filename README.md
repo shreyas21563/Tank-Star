@@ -1,4 +1,4 @@
-![image](https://github.com/shreyas21563/Tank-Star/assets/108022785/c05986e3-d3bf-4c36-abc6-aa153cf7cbd8)# Tank Stars
+# Tank Stars
 
 “Tank Stars” is a tank battle game developed using the LibGDX framework and programmed in Java. The game consist of various features, like tank selection, cannonball selection, shooting cannonballs, health reduction upon impact, pausing the game, saving the game,
 and more.
